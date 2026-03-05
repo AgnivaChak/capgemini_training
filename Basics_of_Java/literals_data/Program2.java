@@ -1,0 +1,14 @@
+package literals_data;
+
+public class Program2 {
+
+	public static void main(String[] args) {
+		//Literals Characters
+		System.out.println('A');
+		//Literals boolean
+		System.out.println(true);
+		System.out.println(false);
+
+	}
+
+}
