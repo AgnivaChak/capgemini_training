@@ -1,276 +1,514 @@
-## Date 07.01.2026
-### Day 0 
-- Syllabus and training structure
-- test patterns
-- some intro into java
-- tokens
-- eclipse for java enterprise
-- biometric registration
+# 📘 Capgemini Java Training Log
 
-## Date 08.01.2026
-### Day 1
-- how to configure Ecliple (workspace - java project - JRE 21)
-- how does java run a program
-- class names (use cammel case)
-- Tokens
-- Literals and Variables
-- Type conversions
-- operators
-- operator precedence at https://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html
+---
 
-## Date 09.01.2026
-### Day 2 (Friday)
-- ternary operators
-- increment decrement operator
-- Logical operators
-- loops
-- HOMEWORK - Write a java code to convert decimal to binary
+## 📅 07.01.2026
 
-## Date 10.01.2026
-### Day 3 (Saturday)
-- pattern printing
-- Methods / Functions
-- recursion
-- quick sort, merge sort, linked list.
-- Test
+### 🟢 Day 0 — Introduction
 
-## Date 13.01.2026
-### Day 4 (Tuesday)
-- Methods and Functions complete
-- recursion
-- pattern printing
-- concep of object, methods and classes
-- Access Specifiers, static non - static methods
-- basic syllabus given
+* 📚 Syllabus and training structure
+* 📝 Test patterns
+* ☕ Introduction to Java
+* 🔤 Tokens
+* 💻 Eclipse for Java Enterprise
+* 🪪 Biometric registration
 
-## Date 14.01.2026
-### Day 5 (Wednesday)
-- constructors (default, parameterized, non parameterized)
-- Arrays, 2D arrays
-- classes
-- objects
+---
 
-## Date 15.01.2026
-### Day 6 (Thursday)
-- Advance Array (sum of array)
-- Strings
-- regex
-- String buffer
-- String builder
-- practice problems
+## 📅 08.01.2026
 
+### 🟢 Day 1 — Java Basics
 
-## Date 16.01.2026
-### Day 7 (Friday)
-- Objects and Classes Advanced
-- Encapsulation
-- Scanner
-- SubArrays
-- Practice Questions(sliding window, two pointers)
-- connect objects
+* ⚙️ Configuring Eclipse
 
-## Date 17.01.2026
-### Day 8 (Saturday)
-- Association
-    - Aggregation
-    - compostion
-- Inheritance
-- Weekly assessment
+  * Workspace
+  * Java Project
+  * JRE 21
+* ▶️ How Java runs a program
+* 🔠 Class naming conventions *(CamelCase)*
+* 🔤 Tokens
+* 📊 Literals and Variables
+* 🔄 Type conversions
+* ➕ Operators
+* 📌 Operator precedence
 
-## Date 19.01.2026
-### Day 9 (Monday)
-- Revision of all previous topics
-- Inheritance Advanced, types of Inheritance
+  * https://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html
 
-## Date 20.01.2026
-### Day 10 (Tuesday)
-- Upcasting Downcasting
-- polymorphism
+---
 
-### 21.01.2026
-## Day 11 (Wednesday)
-- Abstract Classes
-- Interface
-- Exception Handelling
+## 📅 09.01.2026
 
-### 22.01.2026
-## Day 12 (Thursday)
-- Multiple types of error handelling
-- Wrapper classes
-- collections
+### 🟢 Day 2 — Operators & Loops
 
-### 24.01.2026
-## Day 13 (Saturday)
-- More on collections
-- Linked List
-- Stack
-- Hashmap, hashing
-- Weekly Test 4x codes, 60 mcq
+* ❓ Ternary operator
+* ⬆️⬇️ Increment / Decrement operators
+* 🔗 Logical operators
+* 🔁 Loops
 
-### 27.01.2026
-## Day 14 (Tuesday)
-- code on ArrayList
-- Hash Set
-- Linked Hash Set
-- Tree Set
-- some overriding problems
+📌 **Homework**
 
-## Session 1 complete 
+* Write a Java program to convert **Decimal → Binary**
 
-## 28.01.2026
-### Day 15 (wednesday)
-- DSA started with intro
+---
 
-## 29.01.2026
-### Day 16 (Thursday)
-- Communication and Softskills
+## 📅 10.01.2026
 
-## 30.01.2026
-### Day 17 (Friday)
-- DSA arrays and strings
+### 🟢 Day 3 — Functions & Algorithms
 
-## 31.01.2026
-### Day 18 (Saturday)
-- Revision of collections
-- queue
-- stacks
-- vectors
-- weekly test (2 problems)
+* 🔢 Pattern printing
+* 🧩 Methods / Functions
+* 🔁 Recursion
+* ⚡ Sorting Algorithms
 
-## 02.02.2026
-### Day 19 (Monday)
-- searching techniques
-- merge sort, quick sort
+  * Quick Sort
+  * Merge Sort
+* 🔗 Linked List
 
-## 03.02.2026
-### Day 20 (Tuesday)
-- More porblem solving
-- Started Dynamic programming
+📝 **Test Conducted**
 
-## 04.02.2026
-### Day 21 (Wednesday)
-- More problems on DSA
-- knapsack problem, greedy algo
+---
 
-## 05.02.2026
-### Day 22 (Thursday)
-- Fractional knapsack
-- hashing (anagram program)
-- heaps
-- Huffman Algorithim
+## 📅 13.01.2026
 
-## 06.02.2026
-### Day 23 (Friday)
-- Mock Test
+### 🟢 Day 4 — OOP Introduction
 
-## 07.02.2026
-### Day 24 (Saturday)
-- Discussion of Mock question solutions
-- Dp and Recursion revised
-- Weekly programs Test
+* Methods & Functions completed
+* Recursion
+* Pattern printing
+* 🧱 Concept of **Objects, Methods & Classes**
+* 🔐 Access Specifiers
+* ⚙️ Static vs Non-Static Methods
+* 📄 Basic syllabus distributed
 
-## 09.02.2026
-### Day 25 (Monday)
-- Self practice 
-- meeting with Capgemini people 
+---
 
-## 10.02.2026
-### Day 26 (Tuesday)
-- Introduction to DB, DBMS, RDBMS
+## 📅 14.01.2026
 
-## 11.02.2026
-### Day 27 (Wednesday)
-- English and SoftSkill
+### 🟢 Day 5 — Constructors & Arrays
 
-## 12.02.2026
-### Day 28 (Thursday)
-- SQL continued
-- DDL,DML, DCL, TCL
-- Types
+* 🏗️ Constructors
 
-## 13.02.2026
-### Day 29 (Friday)
-- Where, Groupby, Having
-- Joints
+  * Default
+  * Parameterized
+  * Non-Parameterized
+* 📊 Arrays
+* 📊 2D Arrays
+* 🧱 Classes
+* 📦 Objects
 
-## 14.02.2026
-### Day 30 (Saturday)
-- Inner join, Natural Join, Outer join
-- Triggers
-- Weekly Test on SQL
+---
 
-## 16.02.2026
-### Day 31 (Monday)
-- DSA revision
-- Codechef and Hackerrank
+## 📅 15.01.2026
 
-## 17.02.2026
-### Day 32 (Tuesday)
-- revisoon of binary search, heaps, priority queue
-- advance JAVA concepts 
+### 🟢 Day 6 — Strings & Regex
 
-## 18.02.2026
-### Day 33 (Wednesday)
-- generic class
-- lambda expressions
+* 📊 Advanced Array concepts *(Sum of array)*
+* 🔤 Strings
+* 🔎 Regex
+* 🧵 StringBuffer
+* 🧵 StringBuilder
+* 🧠 Practice problems
 
-## 19.02.2026
-### Day 34 (Thursday)
-- Stream API
-- more on lambda expressions
-- comperator
-- threads started
+---
 
-## 20.02.2026
-### Day 35 (Friday)
-- Threads continued
-- synchronization
-- file handelling started
+## 📅 16.01.2026
 
-## 21.02.2026
-### Day 36 (Saturday)
-- 3 problems on top brains
-- 72 questions on Virtual Judge
-- Weekly test on DSA and Java
+### 🟢 Day 7 — OOP Concepts Continued
 
-## 23.02.2026
-### Day 37 (Monday)
-- Self practice on DSA and Java
-- M1 test on hackerrank
+* Objects & Classes (Advanced)
+* 🔒 Encapsulation
+* ⌨️ Scanner class
+* 📊 Subarrays
 
-## 24.02.2026
-### Day 38 (Tuesday)
-- Strating J unit testing
-- Maven
-- JUnit testing
-    - parameterized testing
-    - non parameterized testing
-- Input handelling in JUnit testing
+🧠 **Practice Topics**
 
-    ### Syllabus
-    - Testing and Types of Testing
-        - Alpha ,beta , black box whitebox , etc
+* Sliding Window
 
-## 25.02.2026
-### Day 39 (Wednesday)
-- English Softskills and Communication
+* Two Pointers
 
-## 26.02.2026
-### Day 40 (Thursday)
-- JDBC
-- Mysql connection
-- CRUD operations using JDBC
+* 🔗 Connecting objects
 
-## 27.02.2026
-### Day 41 (Friday)
-- TaskDAD, TaskDTO, TaskDAO
+---
 
-## 28.02.2026
-### Day 42 (Saturday)
-- Weekly test on Java and SQL
-- 2 coding problems and 20 mcq Movk
-- 4 coding problems and 20 mcq final
+## 📅 17.01.2026
 
-## 02.03.2026
-### Day 43 (Monday)
-- many comment lines addeded on what to do next
+### 🟢 Day 8 — Relationships & Inheritance
+
+* 🔗 Association
+
+  * Aggregation
+  * Composition
+* 🧬 Inheritance
+
+📝 **Weekly Assessment**
+
+---
+
+## 📅 19.01.2026
+
+### 🟢 Day 9 — Inheritance Advanced
+
+* Revision of previous topics
+* Advanced inheritance
+* Types of inheritance
+
+---
+
+## 📅 20.01.2026
+
+### 🟢 Day 10 — Polymorphism
+
+* 🔄 Upcasting & Downcasting
+* 🎭 Polymorphism
+
+---
+
+## 📅 21.01.2026
+
+### 🟢 Day 11 — Abstraction & Exceptions
+
+* 🧩 Abstract Classes
+* 🔌 Interfaces
+* ⚠️ Exception Handling
+
+---
+
+## 📅 22.01.2026
+
+### 🟢 Day 12 — Collections
+
+* ⚠️ Types of error handling
+* 📦 Wrapper classes
+* 🗂️ Collections Framework
+
+---
+
+## 📅 24.01.2026
+
+### 🟢 Day 13 — Data Structures
+
+* Collections continued
+* 🔗 Linked List
+* 📚 Stack
+* 🗺️ HashMap & Hashing
+
+📝 **Weekly Test**
+
+* 4 Coding Questions
+* 60 MCQs
+
+---
+
+## 📅 27.01.2026
+
+### 🟢 Day 14 — Collection Implementations
+
+* ArrayList
+* HashSet
+* LinkedHashSet
+* TreeSet
+* Method overriding problems
+
+---
+
+# ✅ Session 1 Complete
+
+---
+
+## 📅 28.01.2026
+
+### 🟢 Day 15 — DSA Begins
+
+* 📚 Introduction to Data Structures & Algorithms
+
+---
+
+## 📅 29.01.2026
+
+### 🟢 Day 16 — Communication Skills
+
+* Soft Skills & Communication
+
+---
+
+## 📅 30.01.2026
+
+### 🟢 Day 17 — Arrays & Strings
+
+* DSA problems on arrays and strings
+
+---
+
+## 📅 31.01.2026
+
+### 🟢 Day 18 — Collections Revision
+
+* Queue
+* Stack
+* Vector
+
+📝 **Weekly Test**
+
+* 2 Coding Problems
+
+---
+
+## 📅 02.02.2026
+
+### 🟢 Day 19 — Searching & Sorting
+
+* Searching techniques
+* Merge Sort
+* Quick Sort
+
+---
+
+## 📅 03.02.2026
+
+### 🟢 Day 20 — Dynamic Programming
+
+* Problem solving
+* Introduction to Dynamic Programming
+
+---
+
+## 📅 04.02.2026
+
+### 🟢 Day 21 — Greedy Algorithms
+
+* Knapsack problem
+* Greedy algorithms
+
+---
+
+## 📅 05.02.2026
+
+### 🟢 Day 22 — Advanced Algorithms
+
+* Fractional Knapsack
+* Hashing *(Anagram program)*
+* Heaps
+* Huffman Algorithm
+
+---
+
+## 📅 06.02.2026
+
+### 🟢 Day 23 — Mock Test
+
+---
+
+## 📅 07.02.2026
+
+### 🟢 Day 24 — Mock Discussion
+
+* Mock solution discussion
+* DP & recursion revision
+
+📝 Weekly Programming Test
+
+---
+
+## 📅 09.02.2026
+
+### 🟢 Day 25 — Practice & Industry Interaction
+
+* Self practice
+* Meeting with Capgemini representatives
+
+---
+
+## 📅 10.02.2026
+
+### 🟢 Day 26 — Database Fundamentals
+
+* Introduction to
+
+  * DB
+  * DBMS
+  * RDBMS
+
+---
+
+## 📅 11.02.2026
+
+### 🟢 Day 27 — Soft Skills
+
+* English communication training
+
+---
+
+## 📅 12.02.2026
+
+### 🟢 Day 28 — SQL Basics
+
+* SQL continued
+* DDL, DML, DCL, TCL
+* SQL data types
+
+---
+
+## 📅 13.02.2026
+
+### 🟢 Day 29 — SQL Queries
+
+* WHERE clause
+* GROUP BY
+* HAVING
+* Joins
+
+---
+
+## 📅 14.02.2026
+
+### 🟢 Day 30 — SQL Advanced
+
+* Inner Join
+* Natural Join
+* Outer Join
+* Triggers
+
+📝 **Weekly SQL Test**
+
+---
+
+## 📅 16.02.2026
+
+### 🟢 Day 31 — DSA Practice
+
+* Revision of DSA
+* Practice on CodeChef & HackerRank
+
+---
+
+## 📅 17.02.2026
+
+### 🟢 Day 32 — Advanced Java
+
+* Binary Search revision
+* Heaps & Priority Queue
+* Advanced Java concepts
+
+---
+
+## 📅 18.02.2026
+
+### 🟢 Day 33 — Functional Programming
+
+* Generic classes
+* Lambda expressions
+
+---
+
+## 📅 19.02.2026
+
+### 🟢 Day 34 — Streams & Threads
+
+* Stream API
+* Comparator
+* Threads introduction
+
+---
+
+## 📅 20.02.2026
+
+### 🟢 Day 35 — Concurrency
+
+* Threads continued
+* Synchronization
+* File handling started
+
+---
+
+## 📅 21.02.2026
+
+### 🟢 Day 36 — Coding Practice
+
+* 3 problems on TopBrains
+* 72 questions on Virtual Judge
+
+📝 Weekly Test on Java & DSA
+
+---
+
+## 📅 23.02.2026
+
+### 🟢 Day 37 — HackerRank Test
+
+* Self practice
+* M1 Test on HackerRank
+
+---
+
+## 📅 24.02.2026
+
+### 🟢 Day 38 — Testing Frameworks
+
+* JUnit Testing
+* Maven
+
+Topics covered:
+
+* Parameterized testing
+* Non-parameterized testing
+* Input handling in JUnit
+
+📚 **Testing Concepts**
+
+* Alpha Testing
+* Beta Testing
+* Black Box Testing
+* White Box Testing
+
+---
+
+## 📅 25.02.2026
+
+### 🟢 Day 39 — Soft Skills
+
+* English communication training
+
+---
+
+## 📅 26.02.2026
+
+### 🟢 Day 40 — JDBC
+
+* JDBC basics
+* MySQL connection
+* CRUD operations
+
+---
+
+## 📅 27.02.2026
+
+### 🟢 Day 41 — DAO Architecture
+
+* TaskDAO
+* TaskDTO
+* TaskDAD
+
+---
+
+## 📅 28.02.2026
+
+### 🟢 Day 42 — Final Evaluation
+
+* Weekly Test (Java + SQL)
+
+Test Format:
+
+* 2 Coding Problems
+* 20 MCQ (Mock)
+* 4 Coding Problems
+* 20 MCQ (Final)
+
+---
+
+## 📅 02.03.2026
+
+### 🟢 Day 43
+
+*(To be updated)*
+
+---
