@@ -1,3 +1,4 @@
+//we have to add this method inside CustomerDAOImpl.java
 public Customer getCustomerByEmail(String email) {
 
     EntityManager em = emf.createEntityManager();
