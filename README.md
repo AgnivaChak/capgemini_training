@@ -507,8 +507,61 @@ Test Format:
 
 ## 📅 02.03.2026
 
-### 🟢 Day 43
+### 🟢 Day 43 (Monday)
 
-*(To be updated)*
+* 📝 Added many comment lines explaining **next implementation steps**
+* Created core project classes:
+
+  Task
+  TaskDAO
+  TaskDTO
+  User
+  UserDAO
+  UserDTO
+  
+* Updated project configuration files:
+
+  * pom.xml
+  * Main.java
+* Created persistence.xml
+* 🔗 Implemented **Many-to-Many transaction relationships**
 
 ---
+
+## 📅 05.03.2026
+
+### 🟢 Day 44 (Thursday)
+
+* ⚙️ Hibernate Framework concepts
+* 🔌 JDBC Basics
+* 🗂️ Entity ↔ Table Mapping
+* 🔗 Relationship Mapping
+* Implemented example using:
+
+  Customer
+  CustomerDetails
+
+---
+
+## 📅 06.03.2026
+
+### 🟢 Day 45 (Friday)
+
+* 🚀 Introduction to **DevOps (Theory)**
+* 📊 Software Development Models
+
+  * Waterfall Model
+  * Agile Model
+* ⚙️ DevOps concepts and workflow
+
+---
+
+## 📅 07.03.2026
+
+### 🟢 Day 46 (Saturday)
+
+* 🤖 **GenAI Online Theory Class**
+* 🗂️ Version Control System (Theory)
+* 🔧 Git & GitHub *(Theory + Practical)*
+* 📝 Weekly Assessment
+
