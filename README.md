@@ -565,3 +565,118 @@ Test Format:
 * 🔧 Git & GitHub *(Theory + Practical)*
 * 📝 Weekly Assessment
 
+---
+
+## 📅 09.03.2026
+
+### 🟢 Day 47 — Jenkins & CI/CD
+
+* Jenkins Tutorial
+* CI/CD
+
+Tasks completed:
+
+* Made projects and understood the **CI/CD Pipeline**
+* Deployed and built projects using **Jenkins**
+
+---
+
+## 📅 10.03.2026
+
+### 🟢 Day 48 — Power Skills
+
+* Email writing
+* Professional communication practice
+
+✅ **Session 3 Complete**
+
+---
+
+## 📅 11.03.2026
+
+### 🟢 Day 49 — Spring (Theory)
+
+* Spring Modules
+* Spring Architecture
+* Spring Configurations
+* Writing hands-on code for practice
+
+---
+
+## 📅 12.03.2026
+
+### 🟢 Day 50 — Spring Boot Framework
+
+* Started **Spring Boot Framework**
+* Spring Boot Architecture
+* Design Pattern
+
+Tasks completed:
+
+* Created and configured **Spring Boot Project**
+* Downloaded and installed tools:
+
+  * Postman
+  * Apache Tomcat
+
+---
+
+## 📅 13.03.2026
+
+### 🟢 Day 51 — Spring MVC & Servlet
+
+* Spring MVC Architecture
+* HTTP Methods:
+
+  * GET
+  * POST
+* Servlet Life Cycle
+
+Project configuration:
+
+* Servlet Project Configuration
+* Spring Boot Project Configuration
+
+Feature implemented:
+
+* Login page using **Servlet**
+
+---
+
+## 📅 14.03.2026
+
+### 🟢 Day 52 — Assessment & Spring MVC
+
+* M1 Re-Assessment
+* Revisited **Spring Framework Architecture**
+* Weekly Assessment
+
+Project work:
+
+* Spring MVC Project (Path Redirection)
+
+---
+
+## 📅 16.03.2026
+
+### 🟢 Day 53 — Spring MVC CRUD Application
+
+* Built **Database CRUD Application**
+
+Technologies used:
+
+* Spring MVC
+* Servlets
+* MySQL
+
+Features implemented:
+
+* Login
+* Register User
+* Forgot Password
+
+---
+
+## 📅 17.03.2026
+
+### 🟢 Day 54 - 
