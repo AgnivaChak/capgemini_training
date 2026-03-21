@@ -677,6 +677,58 @@ Features implemented:
 
 ---
 
-## 📅 17.03.2026
+## 📅 17.03.2026  
 
-### 🟢 Day 54 - 
+### 🟢 Day 54 — Spring Boot MVC Project  
+
+* Created proper project structure using packages (Controller, Service, Repository)  
+* Implemented Employee modules: Add, View, Edit  
+* Fetched data from database and displayed on JSP pages  
+* Connected frontend forms with backend using Spring MVC  
+
+Project: **UEMSpringbootMVC**  
+
+---
+
+## 📅 18.03.2026  
+
+### 🟢 Day 55 — English & Soft Skills  
+
+* English communication practice  
+* Soft skills development  
+
+---
+
+## 📅 19.03.2026  
+
+### 🟢 Day 56 — REST API Implementation  
+
+* Implemented REST APIs  
+* Performed GET, POST, PUT, DELETE operations  
+* Tested APIs using Postman  
+
+Project: **UEMSpringbootMVC**  
+* Completed project  
+
+---
+
+## 📅 21.03.2026  
+
+### 🟢 Day 57 — J2Career Project  
+
+* Completed Weekly Assessment project  
+* Built full-stack Job Portal using Spring Boot, JSP, MySQL  
+
+Features implemented:  
+
+* Employer and Job Seeker roles  
+* Job posting, search, and application functionality  
+* One-to-Many and Many-to-Many relationships using JPA/Hibernate  
+* Secure login and CRUD operations  
+* Real-time application tracking  
+
+---
+
+## 📅 23.03.2026  
+
+### 🟢 Day 58 —  
