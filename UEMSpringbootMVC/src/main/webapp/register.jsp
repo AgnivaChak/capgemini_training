@@ -116,6 +116,11 @@ input[type=reset]:hover{
 </head>
 
 <body>
+<div style="position:absolute; top:20px; right:20px;">
+    <a href="/" style="padding:8px 14px; background:#343a40; color:white; text-decoration:none; border-radius:6px;">
+        ← Back to Login
+    </a>
+</div>
 
 <div class="container">
 
@@ -138,6 +143,11 @@ input[type=reset]:hover{
 <tr>
 <td>Email</td>
 <td><input type="email" name="empEmail" placeholder="Enter Email" required></td>
+</tr>
+
+<tr>
+<td>Password</td>
+<td><input type="password" name="empPassword" required></td>
 </tr>
 
 <tr>

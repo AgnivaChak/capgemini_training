@@ -92,6 +92,12 @@ input[type=reset]{
 
 <body>
 
+<div style="position:absolute; top:20px; right:20px;">
+    <a href="/" style="padding:8px 14px; background:#343a40; color:white; text-decoration:none; border-radius:6px;">
+        ← Back to Login
+    </a>
+</div>
+
 <div class="container">
 
 <h2>Forgot Password</h2>
